@@ -1,11 +1,11 @@
 // function that returns a random fact from an array of strings
 function getRandomFact() {
   const facts = [
-    "The Great Wall of China is over 13,000 miles long.",
-    "Honey never spoils and can last thousands of years.",
-    "A group of flamingos is called a 'flamboyance'.",
-    "The human brain uses about 20% of the body's energy.",
-    "Octopuses have three hearts and blue blood."
+    "Honey never spoils",
+    "A group of flamingos is called a 'flamboyance'",
+    "Octopuses have three hearts",
+    "The Eiffel Tower can be 15 cm taller in summer",
+    "Bananas are berries, but strawberries are not"
   ];
   return facts[Math.floor(Math.random() * facts.length)];
 }
