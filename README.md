@@ -1,9 +1,9 @@
 # Назва проєкту
 
 Lab1
+Невеликий навчальний проект JavaScript, створений в рамках лабораторної роботи №1.
 
 ## Автор
-
 
 - **Бондаренко Тетяна**, група ПЗПІ-25-4
 
@@ -13,9 +13,9 @@ Lab1
 
 - Мова програмування: JavaScript
 
-- IDE: Visual Studio Code 1.110
+- IDE: Visual Studio Code
 
-- VCS: Git 2.47 + GitHub
+- VCS: Git + GitHub
 
 - AI-асистент: GitHub Copilot Student
 
