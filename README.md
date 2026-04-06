@@ -1,8 +1,6 @@
 # Назва проєкту
 
-
 Lab1
-
 
 ## Автор
 
@@ -11,9 +9,7 @@ Lab1
 
 - Email: tetiana.bondarenko3@nure.ua
 
-
 ## Технології
-
 
 - Мова програмування: JavaScript
 
@@ -21,11 +17,9 @@ Lab1
 
 - VCS: Git 2.47 + GitHub
 
-- AI-асистент: GitHub Copilot Student / Codeium
-
+- AI-асистент: GitHub Copilot Student
 
 ## Встановлення та запуск
-
 
 ```bash
 
@@ -37,8 +31,6 @@ node main.js
 
 ```
 
-
 ## Ліцензія
-
 
 MIT License
